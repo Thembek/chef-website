@@ -1,5 +1,5 @@
 import React from 'react';
-import { images } from '../../constant';
+import { images } from '../../constants';
 
 const Subheading = ({ title }) => (
     <div style={{ marginBottom: '1rem' }}>

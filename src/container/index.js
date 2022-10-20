@@ -1,6 +1,6 @@
 import AboutUs from './aboutus/Aboutus';
 import Chef from './chef/Chef';
-import FindUs from './findus/FindUs';
+import FindUs from './findus/Findus';
 import Footer from './footer/Footer';
 import Gallery from './gallery/Gallery';
 import Header from './header/Header';
