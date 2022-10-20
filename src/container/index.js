@@ -1,12 +1,12 @@
 import AboutUs from './aboutus/Aboutus';
 import Chef from './chef/Chef';
-import FindUs from './FindUs/FindUs';
-import Footer from './Footer/Footer';
-import Gallery from './Gallery/Gallery';
-import Header from './Header/Header';
-import Intro from './Intro/Intro';
-import Laurels from './Laurels/Laurels';
-import SpecialMenu from './Menu/SpecialMenu';
+import FindUs from './findus/FindUs';
+import Footer from './footer/Footer';
+import Gallery from './gallery/Gallery';
+import Header from './header/Header';
+import Intro from './intro/Intro';
+import Laurels from './laurels/Laurels';
+import SpecialMenu from './menu/SpecialMenu';
 
 export {
   AboutUs,
